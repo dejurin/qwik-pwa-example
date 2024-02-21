@@ -15,12 +15,6 @@ export default defineConfig(() => {
       qwikCity(), qwikVite(), tsconfigPaths(),
       qwikPwa()
     
-      // VitePWA({
-      //   strategies: 'injectManifest',
-      //   srcDir: 'src',
-      //   filename: 'routes/service-worker.ts'
-      // }),
-    
     ],
     preview: {
       headers: {
