@@ -11,10 +11,10 @@ dependencies:
 
 devDependencies:
   '@builder.io/qwik':
-    specifier: ^1.2.7
+    specifier: ^1.2.19
     version: 1.4.5(@types/node@20.11.19)(undici@6.6.2)
   '@builder.io/qwik-city':
-    specifier: ^1.2.7
+    specifier: ^1.2.19
     version: 1.4.5(@types/node@20.11.19)(rollup@2.79.1)
   '@types/eslint':
     specifier: ^8.56.2
@@ -35,7 +35,7 @@ devDependencies:
     specifier: ^8.56.0
     version: 8.56.0
   eslint-plugin-qwik:
-    specifier: ^1.2.7
+    specifier: ^1.2.19
     version: 1.4.5(eslint@8.56.0)
   fast-glob:
     specifier: ^3.3.2
