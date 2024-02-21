@@ -44,6 +44,9 @@
     "workbox-strategies": "^7.0.0",
     "wrangler": "^3.28.4"
   },
+  "peerDependencies": {
+    "sharp": "^0.32.6"
+  },
   "dependencies": {
     "vite-plugin-pwa": "^0.19.0"
   }
